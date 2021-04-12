@@ -1,0 +1,111 @@
+body { 
+
+                background-color: #019dd5;}
+                h2 { color: red;}
+                h1 {color:white;
+                margin-left: 22%;}
+                
+                h1.color { color:white; border: solid red; width: 100px;}
+                
+                p {font-size: 12px; color:white;}
+                h3 {color: black;
+                    margin-left: 10%;
+                    font-size: 30px;}
+                
+
+          
+.LaureaLogo     {width: 25%;
+                 height: 25%;
+                margin-left: 3%;
+                margin-top: -33%;}
+
+div.col-sm-6    {background-color: red;
+                float: left;
+                width: 33.33%;
+                height: 300px;
+                margin-left: 200px;}
+
+
+
+.form-container {
+                padding: 30px;
+                background: white;
+                border-radius: 10px;
+                box-shadow: 0px 0px 10px 0px; 
+}
+                
+#fly {
+                position: absolute;
+                clear: none;
+                left: 20%;
+    }
+.wrapperMap {
+                height: 100%;
+                width: 100%;
+                position: absolute;
+                clear: none;
+    }              
+
+.map-container-section {
+                overflow:hidden;
+                padding-bottom:56.25%;
+                position:relative;
+                height:0;
+      }
+.map-container-section iframe {
+                left:0;
+                top:0;
+                height:100%;
+                width:100%;
+                position:absolute;
+      } 
+
+.margin {
+            margin:  0;
+    }
+
+.parallax {background: url(../pics/white.jpeg)
+                repeat fixed 100%}
+.parallax-inner {padding-top: 10%;
+                    padding-bottom: 40%;
+                
+                }
+.box {margin-left: 20%;}
+
+
+.form-container {
+    padding: 30px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px; 
+}
+    
+#fly {
+position: absolute;
+clear: none;
+left: 20%;
+}
+.wrapperMap {
+height: 100%;
+width: 100%;
+position: absolute;
+clear: none;
+}              
+
+.map-container-section {
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-section iframe {
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+
+.container-fluid {margin-top: 2%;
+                  float: left;}
